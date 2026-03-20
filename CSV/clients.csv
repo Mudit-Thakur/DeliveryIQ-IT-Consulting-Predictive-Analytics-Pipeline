@@ -1,0 +1,23 @@
+ClientID,ClientName,Industry,Region,ContractValue,SLA_Days
+1,"Contreras, Smith and Morales",Finance,East,1794679.63,30
+2,Chen PLC,Finance,South,2217849.61,120
+3,Ruiz and Sons,Logistics,West,1024217.46,120
+4,"Dunlap, Jordan and Garcia",Logistics,South,392875.97,120
+5,Phillips Ltd,Auto,East,3964042.72,30
+6,Kelly Group,Energy,West,2906655.96,60
+7,"Gutierrez, King and Weaver",Energy,East,1157364.98,90
+8,Kim Inc,BFSI,East,346601.9,60
+9,Floyd-Lewis,Transportation,West,482633.56,60
+10,Horn and Sons,BFSI,West,674651.32,60
+11,Garcia-Brown,Transportation,West,4963620.52,90
+12,Sanchez-Wilson,Auto,East,2538315.94,120
+13,Edwards Inc,Energy,South,2713402.0,120
+14,Carroll-Fuller,Finance,West,1131918.73,90
+15,Martinez-Brown,Transportation,North,347399.45,60
+16,Reed-Harrison,Energy,North,1426889.93,60
+17,Garrison-Owen,BFSI,West,3809001.91,120
+18,Blackburn-Graham,IT,North,3340801.42,60
+19,Sloan PLC,Finance,South,397100.51,120
+20,"Cooper, Baker and Richardson",BFSI,North,1868887.34,60
+21,Barr Group,Energy,South,2280821.93,60
+22,Kelly PLC,Auto,East,722548.95,30

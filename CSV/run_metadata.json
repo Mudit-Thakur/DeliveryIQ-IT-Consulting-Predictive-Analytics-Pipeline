@@ -1,0 +1,16 @@
+{
+  "run_timestamp": "2026-03-20 16:49:54",
+  "seed": 1774005593,
+  "num_projects": 106,
+  "num_clients": 22,
+  "num_employees": 48,
+  "total_risks": 144,
+  "avg_delay_days": 30.3,
+  "pct_overdue": 83.0,
+  "overdue_count": 88,
+  "high_risk_count": 46,
+  "open_risk_count": 50,
+  "forecast_alerts": 69,
+  "top_delayed_sector": "BFSI",
+  "top_delayed_type": "Custom Development"
+}

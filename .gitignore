@@ -4,18 +4,9 @@ venv/
 env/
 ENV/
 
-# Generated data (changes every run, no need to track)
-CSV/
-
-# Generated reports (large files, auto-created by pipeline)
-Reports/
-
 # Credentials (NEVER push these)
 # send_email.py is included but with placeholder text only
 # double check before every push
-
-# Power BI binary (large file, hard to diff)
-PowerBI/dashboard.pbix
 
 # Python cache
 __pycache__/
